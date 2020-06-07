@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "DOU Corona",
+        "casa": "dou",
+        "channel": "sistemas",
+        "description": "Palavras chave de COVID-19",
+        "filter_number": 37,
+        "column_name": "alltext",
+        "positive_filter": "coronavirus; covid-19; covid; pandemia; Covid-19; coronavírus; COVID-19; Coronav\u00edrus",
+        "negative_filter": null
+    },
+    {
+        "nome": "DOU Atos Presidente da Câmara",
+        "casa": "dou",
+        "channel": "sistemas",
+        "description": "Palavras do Presidente da Mesa do Congresso",
+        "filter_number": 38,
+        "column_name": "identifica",
+        "positive_filter": "ATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL",
+        "negative_filter": null
+    }
+]
